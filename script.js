@@ -1,5 +1,5 @@
 let model;
-let targetLabel = "C";
+let targetLabel = "A";
 let state = "collection";
 
 function setup() {
